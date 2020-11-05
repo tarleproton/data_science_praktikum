@@ -7,7 +7,7 @@
 - *matplotlib.pyplot* 
 - *numpy* 
 - *scipy* 
-- *seaborn*
+- *seaborn* |
 | [Классификация комментариев](Классификация_комментариев) | Создание инструмента для классификации комментариев на негативные и позитивные| *pandas* / *matplotlib.pyplot* /  *numpy* / *scipy* / *re* / *sklearn.model_selection* / *sklearn.feature_extraction.text* / *sklearn.linear_model*, *sklearn.metrics*, *sklearn.model_selection*, *catboost*, *nltk.corpus*, *nltk.stem*, *transformers*, *tqdm*|
 
 
