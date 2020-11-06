@@ -22,10 +22,15 @@
  
  **Использованные библиотеки:**
   - pandas
-  - matplotlib.pyplot
+  - re
   - numpy
-  - random
-  - scipy 
-  - seaborn
-В проекте был использован BERT.
-
+  - statistics
+  - matplotlib.pyplot 
+  - sklearn.model_selection
+  - sklearn.feature_extraction.tex
+  - sklearn.linear_model
+  - sklearn.metrics
+  - catboost
+  - torch
+  - tensorflow
+  - transformers
