@@ -8,7 +8,7 @@
  **Использованные библиотеки:**
   - pandas
   - matplotlib.pyplot 
-  - tensorflow 
+  - tensorflow.keras 
      - ImageDataGenerator
      - ResNet50
      - Sequential
